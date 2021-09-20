@@ -3009,69 +3009,9 @@ MonoBehaviour:
   assetGuid: 
   m_Mesh: {fileID: 0}
   m_IsSelectable: 1
-  m_SelectedFaces: 5a000000
-  m_SelectedEdges:
-  - a: 386
-    b: 387
-  - a: 389
-    b: 388
-  - a: 387
-    b: 382
-  - a: 383
-    b: 389
-  - a: 382
-    b: 378
-  - a: 379
-    b: 383
-  - a: 378
-    b: 374
-  - a: 375
-    b: 379
-  - a: 374
-    b: 370
-  - a: 371
-    b: 375
-  - a: 370
-    b: 366
-  - a: 367
-    b: 371
-  - a: 366
-    b: 362
-  - a: 363
-    b: 367
-  - a: 362
-    b: 358
-  - a: 359
-    b: 363
-  - a: 358
-    b: 354
-  - a: 354
-    b: 355
-  - a: 355
-    b: 359
-  - a: 392
-    b: 386
-  - a: 388
-    b: 393
-  - a: 396
-    b: 392
-  - a: 393
-    b: 397
-  - a: 402
-    b: 396
-  - a: 397
-    b: 403
-  - a: 406
-    b: 402
-  - a: 403
-    b: 407
-  - a: 410
-    b: 406
-  - a: 411
-    b: 410
-  - a: 407
-    b: 411
-  m_SelectedVertices: 820100008301000084010000850100007e0100007f0100007a0100007b010000760100007701000072010000730100006e0100006f0100006a0100006b0100006601000067010000620100006301000088010000890100008c0100008d010000920100009301000096010000970100009a0100009b010000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!23 &7300746677477386680
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3091,9 +3031,9 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c6cad9399d1b1ec41850bcdb395f97bc, type: 2}
+  - {fileID: 2100000, guid: 2c7d596cf51363143854258d8264faef, type: 2}
   - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
-  - {fileID: 2100000, guid: e8b999cc162bbfa448b337e66050f3dd, type: 2}
+  - {fileID: 2100000, guid: 3cf8185d80863fd4fafb84db54993473, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
